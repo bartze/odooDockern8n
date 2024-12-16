@@ -1,0 +1,24 @@
+# Python
+*.pyc
+__pycache__/
+
+# Logs
+logs/
+*.log
+
+# Docker
+*.pid
+*.sock
+
+# Odoo
+addons_path
+odoo.conf
+data_dir/
+
+# Sistema Operativo
+.DS_Store
+Thumbs.db
+
+# Entorno Virtual
+.env
+.venv/
